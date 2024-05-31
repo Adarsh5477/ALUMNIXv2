@@ -3,7 +3,6 @@ import React from 'react';
 import img from '../assets/dummy_profile.png';
 
 const AlumniDetailsModal = ({ selectedAlumni, closeModal }) => {
-    console.log(selectedAlumni, closeModal);
   return (
     <div onClick={closeModal}>
     <div className="fixed inset-0 flex items-center justify-center z-50">
