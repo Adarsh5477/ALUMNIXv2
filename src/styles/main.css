@@ -1,0 +1,101 @@
+body{
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 10px !important;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #282c34;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #4b5162;
+    border-radius: 5px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #5c6275;
+  }
+
+  #scrollToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  #scrollToTop img {
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+  }
+  
+  #svgText {
+    font-size: smaller;
+    position: fixed;
+    bottom: 52px;
+    right: 48px;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+  }
+
+/* Hide SVGs on small and medium screens */
+.bg, .bg2 {
+  display: none;
+}
+
+/* Show SVGs on large screens */
+@media (min-width: 1024px) {
+  .bg, .bg2 {
+    display: block;
+    position: absolute;
+    opacity: 0.7;
+    overflow: hidden;
+  }
+
+  .bg {
+    left: 65%;
+    bottom: 5%;
+  }
+
+  .bg2 {
+    left: 0%;
+    bottom: 0%;
+  }
+}
+
+.hero {
+  height: 36.9rem !important;
+}
+
+.block {
+  display: block;
+}
+
+@media (min-width: 1024px) {
+  .block {
+    display: inline;
+  }
+}
+
+.Toastify__toast {
+  background-color: #282c34 !important;
+  color: #eee !important;
+  border-radius: 0.7rem !important;
+}
+
+.Toastify__progress-bar {
+  background-color: #ffffff !important;
+}

@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "graduationYear": "2018",
+      "department": "Computer Science",
+      "specialization": "Artificial Intelligence",
+      "activities": ["Coding Club", "Sports Club"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "graduationYear": "2020",
+      "department": "Electrical Engineering",
+      "specialization": "Power Systems",
+      "activities": ["Robotics Club", "Debate Club"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "graduationYear": "2019",
+      "department": "Business Administration",
+      "specialization": "Marketing",
+      "activities": ["Business Club", "Marketing Society"],
+      "starAlumni": true,
+      "achievement": "Achieved highest GPA in Marketing specialization",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "graduationYear": "2017",
+      "department": "Finance",
+      "specialization": "Investment Banking",
+      "activities": ["Finance Club", "Investment Society"],
+      "starAlumni": true,
+      "achievement": "Won the Best Internship Award at Goldman Sachs",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 5,
+      "name": "Daniel Miller",
+      "graduationYear": "2016",
+      "department": "Mechanical Engineering",
+      "specialization": "Robotics",
+      "activities": ["Robotics Club", "Engineering Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Wilson",
+      "graduationYear": "2014",
+      "department": "English Literature",
+      "specialization": "Creative Writing",
+      "activities": ["Literature Club", "Writing Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 7,
+      "name": "Ethan Clark",
+      "graduationYear": "2019",
+      "department": "Computer Engineering",
+      "specialization": "Embedded Systems",
+      "activities": ["Computer Club", "Engineering Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 8,
+      "name": "Ava Martinez",
+      "graduationYear": "2018",
+      "department": "Chemical Engineering",
+      "specialization": "Biotechnology",
+      "activities": ["Chemistry Club", "Biotechnology Society"],
+      "starAlumni": true,
+      "achievement": "Received prestigious research grant for biotechnology project",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 9,
+      "name": "William Taylor",
+      "graduationYear": "2015",
+      "department": "Mathematics",
+      "specialization": "Statistics",
+      "activities": ["Math Club", "Statistics Society"],
+      "starAlumni": true,
+      "achievement": "Published research paper in renowned mathematics journal",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Garcia",
+      "graduationYear": "2016",
+      "department": "Psychology",
+      "specialization": "Cognitive Psychology",
+      "activities": ["Psychology Club", "Cognitive Science Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 11,
+      "name": "Alexander Hernandez",
+      "graduationYear": "2017",
+      "department": "History",
+      "specialization": "Ancient Civilizations",
+      "activities": ["History Club", "Archaeology Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 12,
+      "name": "Madison Thomas",
+      "graduationYear": "2019",
+      "department": "Environmental Science",
+      "specialization": "Climate Change",
+      "activities": ["Environmental Club", "Climate Action Society"],
+      "starAlumni": true,
+      "achievement": "Led successful environmental awareness campaign",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 13,
+      "name": "Elijah Rodriguez",
+      "graduationYear": "2018",
+      "department": "Political Science",
+      "specialization": "International Relations",
+      "activities": ["Political Club", "International Affairs Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 14,
+      "name": "Samantha Walker",
+      "graduationYear": "2014",
+      "department": "Sociology",
+      "specialization": "Social Justice",
+      "activities": ["Sociology Club", "Social Advocacy Society"],
+      "starAlumni": true,
+      "achievement": "Founded NGO for social justice initiatives",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 15,
+      "name": "Matthew Perez",
+      "graduationYear": "2015",
+      "department": "Economics",
+      "specialization": "Macroeconomics",
+      "activities": ["Economics Club", "Macroeconomics Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 16,
+      "name": "Isabella Wood",
+      "graduationYear": "2017",
+      "department": "Fine Arts",
+      "specialization": "Painting",
+      "activities": ["Art Club", "Painting Society"],
+      "starAlumni": false,
+      "achievement": "",
+      "imageUrl": "https://rb.gy/adcqaa"
+    },
+    {
+      "id": 17,
+      "name": "Logan James",
+      "graduationYear": "2016",
+      "department": "Music",
+      "specialization": "Composition",
+      "activities": ["Music Club", "Composition Society"],
+      "starAlumni":false,
+      "achievement": "",
+"imageUrl": "https://rb.gy/adcqaa"
+},
+{
+"id": 18,
+"name": "Chloe Evans",
+"graduationYear": "2018",
+"department": "Physics",
+"specialization": "Astrophysics",
+"activities": ["Physics Club", "Astrophysics Society"],
+"starAlumni": false,
+"achievement": "",
+"imageUrl": "https://rb.gy/adcqaa"
+},
+{
+"id": 19,
+"name": "Gabriel Moore",
+"graduationYear": "2019",
+"department": "Health Sciences",
+"specialization": "Nutrition",
+"activities": ["Health Club", "Nutrition Society"],
+"starAlumni": false,
+"achievement": "",
+"imageUrl": "https://rb.gy/adcqaa"
+},
+{
+"id": 20,
+"name": "Hailey Rodriguez",
+"graduationYear": "2016",
+"department": "Communications",
+"specialization": "Journalism",
+"activities": ["Communications Club", "Journalism Society"],
+"starAlumni": false,
+"achievement": "",
+"imageUrl": "https://rb.gy/adcqaa"
+}
+]
+  

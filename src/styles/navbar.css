@@ -1,0 +1,9 @@
+#navItem{
+    transition: transform 0.3s ease;
+    color: gray;
+}
+
+#navItem:hover{
+    color: white;
+    transform: translateY(-2px)
+}
