@@ -13,10 +13,7 @@ Alumnix is a web application built with React and Firebase that allows you to se
 ## Live Demo
 
 You can check out the live demo of Alumnix at [https://alumni-xv2.vercel.app/](https://alumni-xv2.vercel.app/).
-<video width="100%" controls>
-  <source src="/0601.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/PVKhpkMEhDQ" frameborder="0" allowfullscreen></iframe>
 
 ## Technologies Used
 
