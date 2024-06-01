@@ -87,7 +87,19 @@ const Dashboard = () => {
     setDepartments(departments);
   };
   
- 
+  //  const filteredResults =
+  // viewOption === 'all'
+  //   ? searchResults
+  //   : viewOption === 'department' || viewOption === 'year'
+  //   ? searchResults.filter(
+  //       (alumni) =>
+  //         (viewOption === 'department' && alumni.department === searchTerm) ||
+  //         (viewOption === 'year' && alumni.graduationYear === searchTerm)
+  //     )
+  //   : emailSearchTerm || searchTerm
+  //   ? searchResults
+  //   : [];
+
   const filteredResults = useMemo(() => {
     const filtered = viewOption === 'all'
       ? searchResults
@@ -103,6 +115,8 @@ const Dashboard = () => {
   
     return filtered;
   }, [viewOption, searchResults, searchTerm, emailSearchTerm]);
+
+
   const fetchStarAlumni = useEffect(() => {
     const fetchStarAlumniData = async () => {
       try {
